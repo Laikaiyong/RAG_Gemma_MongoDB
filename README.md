@@ -1,5 +1,5 @@
-# Building RAG Models with Amazon Titan + Hugging Face
+# Building RAG Models with Fireworks + Hugging Face
 
-This README.md provides instructions on building RAG (Retrieval-Augmented Generation) models using Amazon Titan and Hugging Face. The purpose of these models is to enhance understanding of AWS-specific topics by reading AWS whitepapers. The topics can be found in the following link:
+This README.md provides instructions on building RAG (Retrieval-Augmented Generation) models using Fireworks and Hugging Face. The purpose of these models is to enhance understanding of MongoDB devcentre's materials. The topics can be found in the following link:
 
-[https://huggingface.co/datasets/si3mshady/aws_whitepapers](https://huggingface.co/datasets/si3mshady/aws_whitepapers)
+[https://huggingface.co/datasets/MongoDB/devcenter-articles](https://huggingface.co/datasets/MongoDB/devcenter-articles)
