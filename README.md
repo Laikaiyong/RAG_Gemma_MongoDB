@@ -1,5 +1,5 @@
-# Building RAG Models with Amazon Titan + Hugging Face
+# Building RAG Models with Gemini + Hugging Face
 
-This README.md provides instructions on building RAG (Retrieval-Augmented Generation) models using Amazon Titan and Hugging Face. The purpose of these models is to enhance understanding of AWS-specific topics by reading AWS whitepapers. The topics can be found in the following link:
+This README.md provides instructions on building RAG (Retrieval-Augmented Generation) models using Gemini and Hugging Face. The purpose of these models is to enhance understanding of flutter concepts. The topics can be found in the following link:
 
-[https://huggingface.co/datasets/si3mshady/aws_whitepapers](https://huggingface.co/datasets/si3mshady/aws_whitepapers)
+[https://huggingface.co/datasets/durrah/flutter_questions_answers_](https://huggingface.co/datasets/durrah/flutter_questions_answers_)
